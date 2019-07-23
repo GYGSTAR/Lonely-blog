@@ -1,0 +1,27 @@
+.login_form {
+    position: absolute;
+    width: 400px;
+    height: 610px;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+#userImage {
+    position: relative;
+    width: 140px;
+    height: 140px;
+    left: 50%;
+    top: 0px;
+    margin: auto -70px;
+}
+.check_code_btn {
+    width: 100px;
+    height: 35px;
+    position: absolute;
+    top: -1px;
+}
+#loginUsername {
+    white-space: nowrap;
+}
